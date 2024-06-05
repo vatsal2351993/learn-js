@@ -25,3 +25,6 @@ const func = function(){
 }
 
 func()
+
+// stack memory = premitive datatypes
+// heap memory = non premitive
